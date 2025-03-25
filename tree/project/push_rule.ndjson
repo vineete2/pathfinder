@@ -1,0 +1,1 @@
+{"commit_message_regex":null,"deny_delete_tag":null,"author_email_regex":null,"member_check":false,"file_name_regex":null,"is_sample":false,"max_file_size":0,"prevent_secrets":false,"branch_name_regex":null,"reject_unsigned_commits":null,"commit_committer_check":null,"regexp_uses_re2":true,"commit_message_negative_regex":null,"reject_non_dco_commits":null}
